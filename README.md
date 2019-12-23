@@ -1,4 +1,3 @@
 # Neural-Style-Transfer
 
-Learning Pytorch now.
-Gonna do it soon...
+Neural Style Transfer in PyTorch using VGG19.
