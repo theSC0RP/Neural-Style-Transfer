@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 
-## Neural Style Transfer in PyTorch using VGG19.
+Neural Style Transfer in PyTorch using VGG19.
 
 References:
 1. https://towardsdatascience.com/breaking-down-leon-gatys-neural-style-transfer-in-pytorch-faf9f0eb79db
